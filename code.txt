@@ -1,0 +1,3 @@
+console.developers.google.com
+→ YouTube Data API v3 enable
+→ Credentials → Create API Key
